@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.codecentric</groupId>
+  <artifactId>spring-boot-starter-admin-client</artifactId>
+  <version>1.0.0.RC1</version>
+  <versioning>
+    <versions>
+      <version>1.0.0.RC1</version>
+    </versions>
+    <lastUpdated>20140617125524</lastUpdated>
+  </versioning>
+</metadata>
