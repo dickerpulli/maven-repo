@@ -3,7 +3,7 @@
   <groupId>de.codecentric</groupId>
   <artifactId>spring-boot-starter-admin-client</artifactId>
   <versioning>
-    <release>1.0.0.RELEASE</release>
+    <release>1.0.1.RELEASE</release>
     <versions>
       <version>1.0.0.RC1</version>
       <version>1.0.0.RC2</version>
@@ -11,7 +11,8 @@
       <version>1.0.0.RC4</version>
       <version>1.0.0.RC5</version>
       <version>1.0.0.RELEASE</version>
+      <version>1.0.1.RELEASE</version>
     </versions>
-    <lastUpdated>20140718141348</lastUpdated>
+    <lastUpdated>20140731062042</lastUpdated>
   </versioning>
 </metadata>
