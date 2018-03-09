@@ -91,19 +91,10 @@
 					<artifactId>maven-javadoc-plugin</artifactId>
 					<executions>
 						<execution>
-							<id>jar</id>
 							<goals>
 								<goal>jar</goal>
-							</goals>
-						</execution>
-						<execution>
-							<id>test-jar</id>
-							<goals>
 								<goal>test-jar</goal>
 							</goals>
-							<configuration>
-								<classifier>tests-javadoc</classifier>
-							</configuration>
 						</execution>
 					</executions>
 				</plugin>
