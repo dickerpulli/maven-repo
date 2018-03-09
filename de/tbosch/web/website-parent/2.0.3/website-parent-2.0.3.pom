@@ -81,7 +81,7 @@
 								<goal>test-jar</goal>
 							</goals>
 							<configuration>
-								<classifier>tests</classifier>
+								<classifier>tests-sources</classifier>
 							</configuration>
 						</execution>
 					</executions>
@@ -102,7 +102,7 @@
 								<goal>test-jar</goal>
 							</goals>
 							<configuration>
-								<classifier>tests</classifier>
+								<classifier>tests-javadoc</classifier>
 							</configuration>
 						</execution>
 					</executions>
