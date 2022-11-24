@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 24 15:35:03 CET 2022
+website-commons-2.2.2-sources.jar>=
+website-commons-2.2.2.pom>=
+website-commons-2.2.2-javadoc.jar>=
+website-commons-2.2.2-tests.jar>=
+website-commons-2.2.2-test-sources.jar>=
+website-commons-2.2.2.jar>=
+website-commons-2.2.2-test-javadoc.jar>=
